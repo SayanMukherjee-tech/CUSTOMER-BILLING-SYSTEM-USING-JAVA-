@@ -1,0 +1,22 @@
+------------------------------------------------ IMPORTANT INFORMATION ------------------------------------------------
+
+Google CloudSQL:
+
+Project Name: CUSTOMER-BILLING-SYSTEM
+Instance Id: billing-system
+Database User: root
+Root User Password: alpha-romeo@Ramdev69
+Server IP: 34.93.138.16
+Instance Connection name: customer-billing-system-384218:asia-south1:billing-system
+Database: company
+Connection: jdbc:mysql:///company?cloudSqlInstance=customer-billing-system-384019:asia-south1:billing-system&socketFactory=com.google.cloud.sql.mysql.SocketFactory&user=root&password=alpha-romeo@Ramdev69
+Service Account: p109715630793-utik34@gcp-sa-cloud-sql.iam.gserviceaccount.com
+
+
+Local MySQL:
+
+Connection: jdbc:mysql://localhost:3306/<database name>
+UserId: root
+Password: 18180612
+
+---------------------------------------------------------- X ----------------------------------------------------------

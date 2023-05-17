@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "customer-billing-system-384218",
+  "private_key_id": "e7a2e1cbfafdbd8eb12fe10b01b801eb7d10bc28",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC1qVcA5UTspkpQ\nRtBVIJRvGv9j0wzTXnqubj6qFfvh4fQt1rsnNGg6SKqq4axOFTJ9z7eqFvc5snWG\n/fSg8ZCLHJRGX1DGXeYeopy5pgqb1Zfj2ORMj1oOYH/9wdLc4gNOGAVU9VbQZq8k\nrQSFS8CMVQ9qWWSrDa4+cYbMrZ6V2S35CZOlqgNVDGUdEp05kI+qI5QM5YuyLXWD\n554On4LdZeRLC5mHurjiepFFaZ735mosNgCDERu0su6hGcq4yhTJ6BGsduZ6vKEP\nYwsFk6XdvBJx351DCTyNFx/iBLhjPOoeQvA75sLUZosSdSZcQEYtzb/a2mXP2a6A\nNOqN87bbAgMBAAECggEABDoTXqxDzTFvVp/XMB8VpRVe1OVJWpx+3hLA0LdTO/KR\nRzgqwaMSbvmK39zOMNqFNfBnDx7N4NQaScPpKCeGwl3g+CQ2nm77FqjLXPYUMB0P\nr2SedBOWN/IFEfpeqPbcHQb2p/8cM09evhhsG85JhcDJUfAQWHr1T3M+L881Le2S\n8W1vQw1sNedywz08XE0aQL1cahSvP/KD02IPRxaslsjpp81EHIzOyEbhoxNvPnVx\nYLKfctlV60jHvYjDxsQ2ptM4BKFv4pM3urZyifJ2S3ePyatn8VwuGF1ZZorNvWQo\nFh6epk7pHVrEy/y67PbUntYCKbrXJijtZouvPHzPJQKBgQDvOCec98v0hyOrOu7R\n9aOL/mOZwHojdj6/hOLTjxPFHZ/AY0ykdPkFQtin7Q0heqj3KBkzRGHv7TP8fUo/\nvmHL+uX3o5z8QsTWuic2+pJq34Lv2lnf1tZJDQ5SmnVW51OWSgnh/ILnuUV+K+mp\nXJhthLPT75pnHcC8e/I1RoIGFwKBgQDCZ5MHO/r0x0jkrZOvm/wqMTZKVixuJ6iT\nQxz9NOXUTWFfO0eCMLycBbFWW1Ico/SRBrKgcUTkQlVszqlDtTnLoYSJf53yEsg2\nZGFf1mQfFidDdR/4FeeqIQ6qrlGSCSY87yZXmz5qMiGlaPdZUzvNKplTZMcTF9Hf\nJsd4df1T3QKBgQCRoxNi2e2emmOZzJA23SBLi31hzq/NRSDggmuBtxqnJ+jpPMsd\nWGV+0XqLiaMz3bRefFgTQS+K3VOIBVMdya9Kex5kjIR3g8LIo55aN2TKkfbqRXnv\n76CX6s3sdkK3vK/D0KGBprSflMj9Doj75faavm6oube7zX5YgfEshBeG0wKBgAHp\nzQukLnscPv5pKuvuiBPOOi+PG47V+xW/8lgXni9xt4Sda72/RwvuDmnAKlW3019e\nBoIHu1rXwEl62zWcYf48D7bet6o7Pxcx87div8eCi05hp7fkV0xYWPGbF5htWJ/+\n5oy0LXAUIDqlhtGtPQhu4+VrN35bnKgqlIn990lNAoGBAIujPP6PilHluYcKTJqF\nhmzvXVfKh705FfSSMoFdl0QhJpVjWdL00V32WKNo/aUiV4pCSeBM2A9wZ2p+QKsF\ncqN88obKF6MH8y6gcZvKepYWtX3izaZjkgd44QxtYQgeNzap3h7NON8JjBE/c5YG\nVriPaD7LlMo1VvizdyIe1EWC\n-----END PRIVATE KEY-----\n",
+  "client_email": "intelij@customer-billing-system-384218.iam.gserviceaccount.com",
+  "client_id": "112273776289425600133",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/intelij%40customer-billing-system-384218.iam.gserviceaccount.com"
+}
